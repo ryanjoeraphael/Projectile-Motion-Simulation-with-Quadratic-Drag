@@ -39,3 +39,5 @@ The program successfully outputs the following results:
 Arrays of Vx(t), Vy(t), x(t), and y(t) values.
 The Time of Flight (T), found by interpolating the discrete steps where the vertical position y(t) crosses the y=0 boundary.
 A plot of the trajectory comparing the path with drag to the idealized parabolic path without drag.
+<img width="639" height="514" alt="image" src="https://github.com/user-attachments/assets/523e632f-7f5c-48d7-a347-3bce07a3b9ce" />
+
